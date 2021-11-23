@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-import { PermissionApi } from '@backstage/core-plugin-api';
+import { PermissionApi } from '@backstage/plugin-permission';
 import {
   AuthorizeRequest,
   AuthorizeResponse,
